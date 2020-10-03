@@ -1,14 +1,12 @@
-![Name](<https://github.com/Jobayerdev/Jobayerdev/blob/master/Hello(1).gif>)
-![Name](https://github.com/Jobayerdev/Jobayerdev/blob/master/Name.png)
+## **Hello, I'm Jobayer**
 
+#### I’m currently working on Front-End Development and learning Data Structure And Algorithm.
 
+<br>
+<br>
 
 <a href="https://www.linkedin.com/in/Jobayerdev/"><img src="https://img.shields.io/badge/@Jobayerdev-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a  href="https://medium.com/@Jobayerdev"><img src="https://img.shields.io/badge/@Jobayerdev-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 
-### Here are some ideas to help you get started:
-
-- I’m currently working on <strong>Front-End Development</strong> and <strong>Open Source Contributions</strong>
-- I’m currently learning <strong>Data Structure And Algorithm</strong>
 
 
 ### Tools I work upon : 🛠
