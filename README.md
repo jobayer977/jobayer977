@@ -1,13 +1,11 @@
 ## **Hello, I'm Jobayer**
 
-#### I’m currently working on Front-End Development and learning Data Structure And Algorithm.
+#### I’m currently working on Front-End Development <br> bootstrap and learning Data Structure And Algorithm.
 
 <br>
 <br>
 
 <a href="https://www.linkedin.com/in/Jobayerdev/"><img src="https://img.shields.io/badge/@Jobayerdev-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a  href="https://medium.com/@Jobayerdev"><img src="https://img.shields.io/badge/@Jobayerdev-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
-
-
 
 ### Tools I work upon : 🛠
 
