@@ -1,6 +1,6 @@
 ## **Hello, I'm Jobayer**
 
-#### I’m currently working on Front-End Development <br> bootstrap and learning Data Structure And Algorithm.
+#### I’m currently working on Front-End Development <br> and learning Data Structure And Algorithm.
 
 <br>
 <br>
