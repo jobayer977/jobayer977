@@ -7,11 +7,7 @@
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-<<<<<<< HEAD
-<a href="https://www.linkedin.com/in/Jobayerdev/"><img src="https://img.shields.io/badge/@Jobayerdev -%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a  href="https://medium.com/@Jobayerdev"><img src="https://img.shields.io/badge/@Jobayerdev-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
-=======
-<a href="https://www.linkedin.com/in/Jobayerdev/"><img src="https://img.shields.io/badge/Jobayer Hossain-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a  href="https://medium.com/@Jobayerdev"><img src="https://img.shields.io/badge/@Jobayerdev-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
->>>>>>> f557ee44df68212ac53fae9792e3de258dabf785
+<a href="https://www.linkedin.com/in/Jobayerdev/"><img src="https://img.shields.io/badge/@Jobayerdev-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a  href="https://medium.com/@Jobayerdev"><img src="https://img.shields.io/badge/@Jobayerdev-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 
 ### Here are some ideas to help you get started:
 
