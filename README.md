@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **data structures and algorithm**
 
-- 👨‍💻 All of my projects are available at [https://Jobayer.info](Jobayer.info)
+- 👨‍💻 All of my projects are available at <a href="https://Jobayer.info" target="blank">Jobayer.info</a> 
 
 - 📝 I regulary write articles on [https://medium.com/jobayerdev](medium.com/jobayerdev)
 
