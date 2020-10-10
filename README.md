@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://Jobayer.info" target="blank">Jobayer.info</a> 
 
-- 📝 I regulary write articles on  <a href="https://Jobayer.info" target="blank">medium.com/jobayerdev</a>
+- 📝 I regulary write articles on  <a href="https://medium.com/jobayerdev" target="blank">medium.com/jobayerdev</a>
 
 - 💬 Ask me about **react,nodejs**
 
