@@ -11,11 +11,8 @@
 
 - 💬 Ask me about **react,nodejs**
 
-- 📫 How to reach me **Jobayerhossain547@gmail.com**
+- 📫 How to reach me **Jobayerhossain977@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
