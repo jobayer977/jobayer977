@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jobayer</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Front-End Development**
+- 🔭 I’m currently working on **MessageAnalytica**
 
 - 👨‍💻 All of my projects are available at <a href="https://Jobayer.info" target="blank">Jobayer.info</a> 
 
