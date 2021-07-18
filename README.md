@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jobayer</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **MessageAnalytica**
+- 🔭 I’m currently working on **<a href="https://github.com/MessageAnalytica" target="blank">@MessageAnalytica</a>**
 
 - 👨‍💻 All of my projects are available at <a href="https://Jobayer.info" target="blank">Jobayer.info</a> 
 
