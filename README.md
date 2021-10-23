@@ -13,8 +13,6 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/jobayerdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jobayerdev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9648823/jobayer-hossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="edit/9648823" height="30" width="40" /></a>
-<a href="https://fb.com/jobayerdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jobayerdev" height="30" width="40" /></a>
 <a href="https://medium.com/@jobayerdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jobayerdev" height="30" width="40" /></a>
 </p>
 
