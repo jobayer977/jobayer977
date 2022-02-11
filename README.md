@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jobayer</h1>
 <h3 align="center">Full-Stack Developer (Nodejs/React-native/Angular)</h3>
 
-- 🔭 I’m currently working on **<a href="https://github.com/MessageAnalytica" target="blank">@MessageAnalytica</a>**
-
 - 📝 I regulary write articles on  <a href="https://medium.com/@jobayerdev" target="blank">medium.com/@jobayerdev</a>
 
 - 💬 Ask me about **react,nodejs**
