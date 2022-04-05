@@ -3,7 +3,7 @@
 
 - 📝 I regulary write articles on  <a href="https://medium.com/@jobayerdev" target="blank">medium.com/@jobayerdev</a>
 
-- 💬 Ask me about **react,nodejs,angular,svelte,react-native,flutter,nestjs**
+- 💬 Ask me about **react,nodejs,angular,svelte,react-native,nestjs**
 
 - 📫 How to reach me **Jobayerhossain977@gmail.com**
 
