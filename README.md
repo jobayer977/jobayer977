@@ -41,7 +41,7 @@
 
 
 
-Software Engineer who taught himself. Has professional experience working with Modern Javascript front ends and Native mobile applications since 2020. He’s skilled in React, React-Native, Angular, and Svelte. **I'm open to work and employment opportunities**.
+Software Engineer who taught himself. Has professional experience working with Modern Javascript front ends and Native mobile applications since 2020. He’s skilled in React, React-Native, Angular, and Svelte. 
 
 ### Stats
 
