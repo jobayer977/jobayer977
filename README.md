@@ -45,11 +45,11 @@ Software Engineer who taught himself. Has professional experience working with M
 
 ### Stats
 
-![jobayer977's Stats](https://github-readme-stats.vercel.app/api?username=jobayer977&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![jobayer977's Stats](https://github-readme-stats.vercel.app/api?username=jobayer977&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![jobayer977's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobayer977&theme=darcula&hide_border=true)
+![jobayer977's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobayer977&theme=tokyonight&hide_border=true)
 
-![jobayer977's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer977&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![jobayer977's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer977&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
 
@@ -60,18 +60,3 @@ Software Engineer who taught himself. Has professional experience working with M
 [![medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://jobayerdev.medium.com/)
 [![quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=flat-square&logo=Quora&logoColor=white)](https://www.quora.com/profile/Jobayerdev)
 
-<!-- <h1 align="center">Hi 👋, I'm Jobayer</h1>
-<h3 align="center">Javascript Developer</h3>
-
-- 📝 I regulary write articles on  <a href="https://medium.com/@jobayerdev" target="blank">medium.com/@jobayerdev</a>
-
-- 💬 Ask me about **react,nodejs,angular,svelte,react-native,nestjs**
-
-- 📫 How to reach me **Jobayerhossain977@gmail.com**
-
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/jobayerdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jobayerdev" height="30" width="40" /></a>
-<a href="https://medium.com/@jobayerdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jobayerdev" height="30" width="40" /></a>
-</p>
- -->
