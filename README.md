@@ -49,7 +49,7 @@ Software Engineer who taught himself. Has professional experience working with M
 
 ![jobayer977's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobayer977&theme=tokyonight&hide_border=true)
 
-![jobayer977's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer977&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 
 ### Where to find me
 
