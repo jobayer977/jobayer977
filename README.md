@@ -42,12 +42,12 @@
 
 
 Software Engineer who taught himself. Has professional experience working with Modern Javascript front ends and Native mobile applications since 2020. He’s skilled in React, React-Native, Angular, and Svelte. 
-
+<!--
 ### Stats
 
-![jobayer977's Stats](https://github-readme-stats.vercel.app/api?username=jobayer977&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+ ![jobayer977's Stats](https://github-readme-stats.vercel.app/api?username=jobayer977&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![jobayer977's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobayer977&theme=tokyonight&hide_border=true)
+![jobayer977's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobayer977&theme=tokyonight&hide_border=true) -->
 
 
 
