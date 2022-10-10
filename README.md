@@ -74,7 +74,6 @@ Outside of programming, I love to play badminton and video games. I am also a bi
 [![quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=flat-square&logo=Quora&logoColor=white)](https://www.quora.com/profile/Jobayerdev)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Jobayerdev)
 
-<br>
 
 ### Notes
 
