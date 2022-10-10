@@ -2,6 +2,18 @@
 <h3 align="center">Full Stack Javascript Developer</h3>
 <br>
 
+
+Hey, I am Jobayer Hossain a passionate software engineer. Working at <b>Gaze</b>
+
+Ex LOOX, Ex MessageAnalytica, Currently Working on HealthTech and has experience in E-commerce, Live Streaming, SmsGateway, WebRTC, and many more.
+
+Big fan of typescript,NodeJS,Microservice, React-Native, Angular, Svelte, PostgreSQL and WebRTC. I am also a big fan of Linux and Open Source. I love to contribute to Open Source Projects and like to automate things.
+
+Outside of programming, I love to play badminton and video games. I am also a big fan of movies and TV series. I love to watch movies and TV series in my free time also read books and write blogs.
+
+
+<br>
+
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React_Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -41,7 +53,9 @@
 
 
 
-Software Engineer who taught himself. Has professional experience working with Modern Javascript front ends and Native mobile applications since 2020. He’s skilled in React, React-Native, Angular, and Svelte. 
+
+
+
 <!--
 ### Stats
 
@@ -59,3 +73,14 @@ Software Engineer who taught himself. Has professional experience working with M
 [![medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://jobayerdev.medium.com/)
 [![quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=flat-square&logo=Quora&logoColor=white)](https://www.quora.com/profile/Jobayerdev)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Jobayerdev)
+
+<br>
+
+### Notes
+
+- [200+ Javascript Topics with Questions and Answers](https://js.jobayer.dev/)
+- [59+ React Questions and Answers](https://react.jobayer.dev/)
+- [75+ Angular Questions and Answers](https://angular.jobayer.dev/)
+- [41+ Typescript Questions and Answers](https://ts.jobayer.dev/)
+- [39+ React Native Questions and Answers](https://rn.jobayer.dev/)
+- [61+ Front-End Questions and Answers](https://font-end.jobayer.dev/)
