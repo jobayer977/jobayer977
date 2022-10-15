@@ -77,9 +77,9 @@ Outside of programming, I love to play badminton and video games. I am also a bi
 
 ### Notes
 
-- [200+ Javascript Topics with Questions and Answers](https://js.jobayer.dev/)
-- [59+ React Questions and Answers](https://react.jobayer.dev/)
-- [75+ Angular Questions and Answers](https://angular.jobayer.dev/)
-- [41+ Typescript Questions and Answers](https://ts.jobayer.dev/)
-- [39+ React Native Questions and Answers](https://rn.jobayer.dev/)
-- [61+ Front-End Questions and Answers](https://font-end.jobayer.dev/)
+- [Javascript Topics with Questions and Answers](https://js.jobayer.dev/)
+- [React Questions and Answers](https://react.jobayer.dev/)
+- [Angular Questions and Answers](https://angular.jobayer.dev/)
+- [Typescript Questions and Answers](https://ts.jobayer.dev/)
+- [React Native Questions and Answers](https://rn.jobayer.dev/)
+- [Front-End Questions and Answers](https://font-end.jobayer.dev/)
