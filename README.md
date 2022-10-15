@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jobayer</h1>
-<h3 align="center">Full Stack Javascript Developer</h3>
+<h3 align="center">Javascript Developer</h3>
 <br>
 
 
