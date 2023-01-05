@@ -75,11 +75,12 @@ Outside of programming, I love to play badminton and video games. I am also a bi
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Jobayerdev)
 
 
-### Notes
+### Articles
 
-- [Javascript Topics with Questions and Answers](https://js.jobayer.dev/)
-- [React Questions and Answers](https://react.jobayer.dev/)
-- [Angular Questions and Answers](https://angular.jobayer.dev/)
-- [Typescript Questions and Answers](https://ts.jobayer.dev/)
-- [React Native Questions and Answers](https://rn.jobayer.dev/)
-- [Front-End Questions and Answers](https://font-end.jobayer.dev/)
+- [A Simple Angular Component Compilation Process](https://medium.com/@jobayerdev/a-simple-angular-component-compilation-process-9338114aff0b)
+- [Drive Into React useState Hook](https://medium.com/swlh/drive-into-react-useeffect-hook-89db8f844d92)
+- [The Complete Guide to CSS Flexbox
+](https://medium.com/better-programming/a-complete-guide-css-flex-box-24f4a9a1e02)
+- [Get Started With React Credit Card
+](https://medium.com/better-programming/getting-started-with-react-credit-card-ac44071eeb45)
+
