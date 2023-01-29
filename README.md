@@ -3,13 +3,9 @@
 <br>
 
 
-Hey, I am Jobayer Hossain a passionate software engineer. Working at <b>Gaze</b>
+I am Jobayer Hossain a tech enthusiast who is passionate about programming and the latest technologies. My expertise lies in TypeScript, NodeJS, Microservices, React-Native, Angular, Svelte, PostgreSQL, and WebRTC, and I am also a big fan of Linux and Open Source software. I love to contribute to open source projects and enjoy automating tasks.
 
-Ex LOOX, Ex MessageAnalytica, Currently Working on HealthTech and has experience in E-commerce, Live Streaming, SmsGateway, WebRTC, and many more.
-
-Big fan of typescript,NodeJS,Microservice, React-Native, Angular, Svelte, PostgreSQL and WebRTC. I am also a big fan of Linux and Open Source. I love to contribute to Open Source Projects and like to automate things.
-
-Outside of programming, I love to play badminton and video games. I am also a big fan of movies and TV series. I love to watch movies and TV series in my free time also read books and write blogs.
+Outside of programming, I am an active person who enjoys playing badminton, video games, and watching movies and TV series. I also take an interest in reading books and writing blogs. I am a well-rounded individual with a balanced approach to both my personal and professional life.
 
 
 <br>
