@@ -5,7 +5,7 @@
 
 I am Jobayer Hossain a tech enthusiast who is passionate about programming and the latest technologies. My expertise lies in TypeScript, NodeJS, Microservices, React-Native, Angular, Svelte, PostgreSQL, and WebRTC, and I am also a big fan of Linux and Open Source software. I love to contribute to open source projects and enjoy automating tasks.
 
-Outside of programming, I am an active person who enjoys playing badminton, video games, and watching movies and TV series. I also take an interest in reading books and writing blogs. I am a well-rounded individual with a balanced approach to both my personal and professional life.
+Outside of programming, I am an active person who enjoys playing badminton and watching movies and TV series. I also take an interest in reading books and writing blogs. I am a well-rounded individual with a balanced approach to both my personal and professional life.
 
 
 <br>
