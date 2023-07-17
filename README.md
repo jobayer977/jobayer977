@@ -3,7 +3,7 @@
 <br>
 
 
-JavaScript-focused software engineer with over 4+ years of experience in developing web and mobile applications. Has hands-on experience with a wide range of Javascript frameworks and libraries. Throughout his career, he’s worked on multiple agile teams as a core developer and is now interested in working on anything JavaScript-related. He appreciates the importance of quality code as well as the need to meet scheduling demands.
+JavaScript-focused software engineer with over 5+ years of experience in developing web and mobile applications. Has hands-on experience with a wide range of Javascript frameworks and libraries. Throughout his career, he’s worked on multiple agile teams as a core developer and is now interested in working on anything JavaScript-related. He appreciates the importance of quality code as well as the need to meet scheduling demands.
 
 Outside of programming, I love to play badminton, watch movies, and play video games. I am also a big fan of movies and TV series. I love to watch movies and TV series in my free time. Also, read books and write blogs.
 
