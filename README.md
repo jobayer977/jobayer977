@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jobayer</h1>
-<h3 align="center">Full-Stack Developer web and mobile</h3>
-<br>
-Fullstack Developer with strong experience, Across the Software Development Lifecycle, including DevOps, Backend, Front-end, and Mobile Development and system design.
+<h3 align="center">Fullstack Developer web and mobile</h3>
 <br>
 
-### Front-End Development
+
+Fullstack Developer with strong experience, Across the Software Development Lifecycle, including DevOps, Backend, Front-end, and Mobile Development and system design.
+
+<br>
+
+##### Front-End
 ![Svelte.js](https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Angular.js](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -29,7 +32,7 @@ Fullstack Developer with strong experience, Across the Software Development Life
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
 
 
-### Back-End Development
+##### Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
@@ -43,21 +46,21 @@ Fullstack Developer with strong experience, Across the Software Development Life
 
 
 
-### Database
+##### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005B85?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![redis](https://img.shields.io/badge/Redis-D22A1F?style=flat-square&logo=redis&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1283AC?style=flat-square&logo=cassandra&logoColor=white)
 
-### BaaS and CMS
+##### BaaS and CMS
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=white)
 ![PocketBase](https://img.shields.io/badge/PocketBase-1A1F2B?style=flat-square&logo=pocketbase&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat-square&logo=strapi&logoColor=white)
 ![Sanity](https://img.shields.io/badge/Sanity-000000?style=flat-square&logo=sanity&logoColor=white)
 
-### Languages
+##### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -66,7 +69,7 @@ Fullstack Developer with strong experience, Across the Software Development Life
 
 
 
-### DevOps
+##### DevOps
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
