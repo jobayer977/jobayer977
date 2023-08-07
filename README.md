@@ -7,6 +7,8 @@ Fullstack Developer with strong experience, Across the Software Development Life
 
 <br>
 
+### Expertise in a wide range of technologies
+
 ##### Front-End
 ![Svelte.js](https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
