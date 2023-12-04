@@ -3,7 +3,7 @@
 <br>
 
 
-Fullstack Developer with strong experience, Across the Software Development Lifecycle, including DevOps, Backend, Front-end, and Mobile Development and system design.
+Well-rounded Full-Stack Developer with expertise in web, mobile, desktop, and DevOps
 
 <br>
 
@@ -17,8 +17,6 @@ Fullstack Developer with strong experience, Across the Software Development Life
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat-square&logo=gatsby&logoColor=white)
 ![React_Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![ionic](https://img.shields.io/badge/ionic-1969F7?style=flat-square&logo=ionic&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat-square&logo=reactivex&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -38,7 +36,6 @@ Fullstack Developer with strong experience, Across the Software Development Life
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![django](https://img.shields.io/badge/Django-082D1F.svg?style=flat-square&logo=django&logoColor=white)
 ![graphql](https://img.shields.io/badge/Graphql-DD34A6.svg?style=flat-square&logo=graphql&logoColor=white)
 ![grpc](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=gRPC&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
@@ -51,7 +48,6 @@ Fullstack Developer with strong experience, Across the Software Development Life
 ![mysql](https://img.shields.io/badge/MySQL-005B85?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![redis](https://img.shields.io/badge/Redis-D22A1F?style=flat-square&logo=redis&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1283AC?style=flat-square&logo=cassandra&logoColor=white)
 
 ##### BaaS and CMS
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
@@ -66,7 +62,6 @@ Fullstack Developer with strong experience, Across the Software Development Life
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
 
 
 ##### DevOps
